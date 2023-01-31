@@ -393,7 +393,7 @@ export class LayoutNavbar extends CustomElement {
                 </ul>
               </div>
               <div class="align-items-end align-self-center nav-item btn-list pb-3">
-                <a href="https://github.com/jxxghp/nas-tools" class="btn ${this._is_update ? "btn-yellow text-yellow-fg" : "btn-dark text-muted"}" target="_blank" rel="noreferrer">
+                <a href="https://github.com/xxibalba/nas-tools" class="btn ${this._is_update ? "btn-yellow text-yellow-fg" : "btn-dark text-muted"}" target="_blank" rel="noreferrer">
                   <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24"
                       viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round"
                       stroke-linejoin="round">
